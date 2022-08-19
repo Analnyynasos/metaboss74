@@ -1,0 +1,72 @@
+{
+  "name": "Sentry #3",
+  "symbol": "SENTRIES",
+  "description": "A host of Sentries living in Decentral City and running the Solana Network.",
+  "seller_fee_basis_points": 200,
+  "image": "https://arweave.net/FDxhpetvi3ECUKLQqcw4hfhXC1T9n5CucKxHIDdeAr8?ext=png",
+  "attributes": [
+    {
+      "trait_type": "Power",
+      "value": "0"
+    },
+    {
+      "trait_type": "District",
+      "value": "Inner"
+    },
+    {
+      "trait_type": "Back",
+      "value": "Purple Hardshell"
+    },
+    {
+      "trait_type": "Left Arm",
+      "value": "Amber Grip"
+    },
+    {
+      "trait_type": "Item",
+      "value": "Orange Psybuster"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Amber"
+    },
+    {
+      "trait_type": "Chest",
+      "value": "Steel Asul"
+    },
+    {
+      "trait_type": "Face",
+      "value": "Steel Herne"
+    },
+    {
+      "trait_type": "Ornament",
+      "value": "Steel Froggy"
+    },
+    {
+      "trait_type": "Head",
+      "value": "Steel Mephisto"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Solana Dragonborn"
+    },
+    {
+      "trait_type": "Right Arm",
+      "value": "Steel Sparta"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+}
